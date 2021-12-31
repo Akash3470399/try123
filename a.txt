@@ -1,2 +1,3 @@
 abc
 def
+inside b1 branch
